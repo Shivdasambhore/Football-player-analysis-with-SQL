@@ -32,16 +32,16 @@ This SQL-driven analysis covers:
 - Top 5 Most Creative Players (in which use Assist, xA, KP, PPA — per 90 mins)
 
 ## Club level analysis
--- Club which having most attacking threat with all player (Gls per 90 mins across all players)
--- here we get best defensder on bases of Weighted Defense Index ( which include Tackles, Interceptions, Clean Sheets, Goals Against)
--- Club which are Heavy Reliance on Single Player’s Contribution
--- club which having very low independ depandancy on single player in attacking area.
--- Creativity Index Per Club ( in which we consider Key Passes, xA, Passes Into Penalty Area ane check then over per 90 min)
--- Defensive Discipline Score (in which we consider club having total Low no of cards and won high no of tackles)
--- Emerging Talent Index Per Club (which age is less than 23, we check their stats like goal and assist per 90 min)
--- Emerging Defensive Talent Index per Club
--- Club Ball Progression Score (which include Carries and Progressive Passes)
--- Best Overall Club Index (Combined Offense, Defense, Creativity, Youth)
--- Best Midfield Trio Per Club (2 attacking midfield and 1 is defencive)
+- Club which having most attacking threat with all player (Gls per 90 mins across all players)
+- here we get best defensder on bases of Weighted Defense Index ( which include Tackles, Interceptions, Clean Sheets, Goals Against)
+- Club which are Heavy Reliance on Single Player’s Contribution
+- club which having very low independ depandancy on single player in attacking area.
+- Creativity Index Per Club ( in which we consider Key Passes, xA, Passes Into Penalty Area ane check then over per 90 min)
+- Defensive Discipline Score (in which we consider club having total Low no of cards and won high no of tackles)
+- Emerging Talent Index Per Club (which age is less than 23, we check their stats like goal and assist per 90 min)
+- Emerging Defensive Talent Index per Club
+- Club Ball Progression Score (which include Carries and Progressive Passes)
+- Best Overall Club Index (Combined Offense, Defense, Creativity, Youth)
+- Best Midfield Trio Per Club (2 attacking midfield and 1 is defencive)
 
 
