@@ -19,7 +19,7 @@ This SQL-driven analysis covers:
 **Size:** ~17,000 Players  
 **Coverage:** Player demographics, match stats, passing, defending, progression, possession, goalkeeper metrics, etc.
 
-## Individual player analysis
+## Individual playerwise analysis
 - Top 5 Best Goalkeepers from all league (this is based on Save % and Clean Sheets)
 - Top 10 Scorers (by Goals)
 - Top 10 Scorers (Gls per 90 mins, min 900 mins)
@@ -31,7 +31,7 @@ This SQL-driven analysis covers:
 - Best Player at Each Position
 - Top 5 Most Creative Players (in which use Assist, xA, KP, PPA — per 90 mins)
 
-## Club level analysis
+## Clubwise analysis
 - Club which having most attacking threat with all player (Gls per 90 mins across all players)
 - here we get best defensder on bases of Weighted Defense Index ( which include Tackles, Interceptions, Clean Sheets, Goals Against)
 - Club which are Heavy Reliance on Single Player’s Contribution
@@ -43,5 +43,25 @@ This SQL-driven analysis covers:
 - Club Ball Progression Score (which include Carries and Progressive Passes)
 - Best Overall Club Index (Combined Offense, Defense, Creativity, Youth)
 - Best Midfield Trio Per Club (2 attacking midfield and 1 is defencive)
+
+## Leaguewise analysis
+- Most Physical League
+- Technical Quality Score (Pass Accuracy + Carries)
+- Best 3 Attacking Clubs in Each League
+- Most Defensive League
+- Goalkeeper Performance Index
+- Youth Development League Score (U-23 per 90 Performance)
+- Best Playing XI in 4-3-3 Formation for Each League
+- league categories into differernt tier (Elite,Competitive,Emerging)
+
+## Nationwise Analysis
+-- Top 5 National Teams Having Best 3 Attacking Players
+-- Nation With Most Players Across All Leagues
+-- Emerging National Talent Index (U-23 Only)
+-- Which Nation Produces the Most Players in a Specific Position (for this we us midfield)
+-- Best Goalkeeper-Producing Nations
+-- Best Playing XI for a Specific Nation (e.g. Spain) in 4-3-3 Formation
+
+
 
 
