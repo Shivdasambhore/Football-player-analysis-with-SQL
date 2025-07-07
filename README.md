@@ -55,12 +55,12 @@ This SQL-driven analysis covers:
 - league categories into differernt tier (Elite,Competitive,Emerging)
 
 ## Nationwise Analysis
--- Top 5 National Teams Having Best 3 Attacking Players
--- Nation With Most Players Across All Leagues
--- Emerging National Talent Index (U-23 Only)
--- Which Nation Produces the Most Players in a Specific Position (for this we us midfield)
--- Best Goalkeeper-Producing Nations
--- Best Playing XI for a Specific Nation (e.g. Spain) in 4-3-3 Formation
+- Top 5 National Teams Having Best 3 Attacking Players
+- Nation With Most Players Across All Leagues
+- Emerging National Talent Index (U-23 Only)
+- Which Nation Produces the Most Players in a Specific Position (for this we us midfield)
+- Best Goalkeeper-Producing Nations
+- Best Playing XI for a Specific Nation (e.g. Spain) in 4-3-3 Formation
 
 
 
